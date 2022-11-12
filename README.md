@@ -1,1 +1,5 @@
 # Customer_Analysis_using_Tableau
+Custumer Analysis using Tableau
+________________________________________________________________________________________________________________________________________________________________________
+
+Analyze customer behavior with dashboard built on Tableau. Identify what are the trends of the customer buying the products. Analyze about the all the sales with different attributes.
